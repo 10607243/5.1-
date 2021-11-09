@@ -1,1 +1,32 @@
 @charset "UTF-8";
+
+.titulo {
+	text-align: center;
+}
+
+.ah3{
+	background-color: gray;
+}
+
+.ah1{
+	background-color:gray;
+	text-decoration:underline;
+	color:#2e3436;
+}
+
+.azul{
+	color: blue;
+	
+}
+
+.azulbold {
+	color:blue;
+	font-weight: bold;
+}
+
+.idiomas {
+	color: gray;
+	font-style: italic;
+	background-color: #969696;
+	
+}
